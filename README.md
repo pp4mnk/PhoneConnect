@@ -2,14 +2,6 @@
 **PhoneConnect** is a lightweight utility that allows you to mirror and control your Android smartphone directly from your Linux computer.
 
 
-Te preparo un **README bilingüe (English / Español)** para publicar en GitHub, con una presentación de PhoneConnect, sus funcionalidades, instalación, instrucciones de uso, dependencias y resolución de problemas.
-
-Está orientado a Puppy Linux, especialmente a F96CE_XFCE_FUSILLI, y a su distribución como paquete `.pet` con las dependencias necesarias incluidas.
-
-He tomado como referencia la versión **2.2**, que incorpora scrcpy 1.12.1 y ADB 8.1.0. No he podido verificar directamente el contenido del paquete PET definitivo, por lo que conviene confirmar las versiones y dependencias antes de publicar.
-
-Puedes copiar directamente este contenido en el archivo `README.md` de GitHub.
-
 # 📱 PhoneConnect — by pp4mnk
 
 **Connect your phone. Control your Android device. Enjoy the freedom of Linux.**
