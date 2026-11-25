@@ -1,6 +1,7 @@
 # PhoneConnect
 **PhoneConnect** is a lightweight utility that allows you to mirror and control your Android smartphone directly from your Linux computer.
 
+APP IMAGE HOSTED IN SOURCEFORGE  (52.3mb) (https://sourceforge.net/projects/phoneconnect-by-pp4mnk/)
 
 # 📱 PhoneConnect — by pp4mnk
 
